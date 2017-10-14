@@ -1,5 +1,6 @@
 clean:
 			\rm -rf Output/*
+			mkdir output/
 			mkdir Output/per_stock_info
 
 all:
